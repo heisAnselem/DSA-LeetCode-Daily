@@ -1,6 +1,6 @@
 # 🚀 DSA  LeetCode Daily
 
-Welcome to my daily data structures and algorithms practice repository (365 days). Here, I document my solutions to LeetCode problems, focusing on clari>
+Welcome to my daily data structures and algorithms practice repository (365 days). Here, I document my solutions to LeetCode problems, focusing on clarity, efficiency, and consistent improvement.
 
 ## 📊 Progress
 | # | Problem | Difficulty | Topic | Date Solved |
