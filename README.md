@@ -1,0 +1,17 @@
+# 🚀 DSA  LeetCode Daily
+
+Welcome to my daily data structures and algorithms practice repository (365 days). Here, I document my solutions to LeetCode problems, focusing on clari>
+
+## 📊 Progress
+| # | Problem | Difficulty | Topic | Date Solved |
+|:-:|:--------|:----------:|:------|:-----------:|
+| 0028 | [Find the Index of the First Occurrence](./0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | String | 2026-01-18 (Day 18)|
+| | | | | |
+
+## 🛠️ Tech Stack
+* **Language:** Python,
+* **Tools:** VS Code, Git, Leetcode
+
+More languages might be added as i learn along the journey
+
+ **You can check out my posts here on [X](https://x.com/heisAnselem)**   --pinned
