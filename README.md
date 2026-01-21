@@ -8,6 +8,7 @@ Welcome to my daily data structures and algorithms practice repository (365 days
 | 0028 | [Find the Index of the First Occurrence](./0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | String | 2026-01-18 (Day 18)|
 | 0344 | [ Reverse String](./0344-reverse-string/) | Easy | Two pointer, String | 2026-01-19 (Day 19)|
 | 1496 | [ Path Crossing ](./1496-path-crossing/) | Easy | Hash table , String | 2026-01-20 (Day 20) |
+| 0268 | [Missing Number ](./0268-missing-number/) | Easy | Math , Array | 2026-01-21 (Day 21) |
 | | | | | |
 
 ## 🛠️ Tech Stack
