@@ -9,6 +9,7 @@ Welcome to my daily data structures and algorithms practice repository (365 days
 | 0344 | [ Reverse String](./0344-reverse-string/) | Easy | Two pointer, String | 2026-01-19 (Day 19)|
 | 1496 | [ Path Crossing ](./1496-path-crossing/) | Easy | Hash table , String | 2026-01-20 (Day 20) |
 | 0268 | [Missing Number ](./0268-missing-number/) | Easy | Math , Array | 2026-01-21 (Day 21) |
+| 0058 | [ Length of Last Word ](./0058-length-of-last-word/) | Easy | string | 2026-01-22 (Day 22) |
 | | | | | |
 
 ## 🛠️ Tech Stack
