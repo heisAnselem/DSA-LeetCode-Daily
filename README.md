@@ -12,7 +12,9 @@ Welcome to my daily data structures and algorithms practice repository. Here, I 
 | 0058 | [ Length of Last Word ](./0058-length-of-last-word/) | Easy | string | 2026-01-22 (Day 22) |
 | 1877 | [ Minimize Maximum Pair Sum in Array ](./1877-minimize-maximum-pair-sum-in-array/) | Medium | Two pointers, Greedy, Sorting, Array | 2026-01-24 (Day 23) |
 | 0202 | [ Happy Number ](./0202-happy-number/) | Easy | Hashing, Math ,Two pointers | 2026-01-25 (Day 24) |
+| 0347 | [Top K Frequent Elements](./Patterns/BucketSort/0347-top-k-frequent-elements/) | Medium | Arrays, Bucket sort, Hashmap | 2026-04-30 (Day 25) |
 | | | | | |
+
 
 ## 🛠️ Tech Stack
 * **Language:** Python,
