@@ -1,19 +1,20 @@
-# 🚀 DSA  LeetCode Daily
+#  Data Structures and Algorithms 
 
-Welcome to my daily data structures and algorithms practice repository. Here, I document my solutions to LeetCode problems, focusing on clarity, efficiency, and consistent improvement.
+Welcome to my data structures and algorithms practice repository. Here, I document my solutions to LeetCode problems, focusing on Understanding, clarity, efficiency, and consistent improvement.
 
 ## 📊 Progress
-| # | Problem | Difficulty | Topic | Date Solved |
-|:-:|:--------|:----------:|:------|:-----------:|
-| 0028 | [Find the Index of the First Occurrence](./0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | String | 2026-01-18 (Day 18)|
-| 0344 | [ Reverse String](./0344-reverse-string/) | Easy | Two pointer, String | 2026-01-19 (Day 19)|
-| 1496 | [ Path Crossing ](./1496-path-crossing/) | Easy | Hash table , String | 2026-01-20 (Day 20) |
-| 0268 | [Missing Number ](./0268-missing-number/) | Easy | Math , Array | 2026-01-21 (Day 21) |
-| 0058 | [ Length of Last Word ](./0058-length-of-last-word/) | Easy | string | 2026-01-22 (Day 22) |
-| 1877 | [ Minimize Maximum Pair Sum in Array ](./1877-minimize-maximum-pair-sum-in-array/) | Medium | Two pointers, Greedy, Sorting, Array | 2026-01-24 (Day 23) |
-| 0202 | [ Happy Number ](./0202-happy-number/) | Easy | Hashing, Math ,Two pointers | 2026-01-25 (Day 24) |
-| 0347 | [Top K Frequent Elements](./Patterns/BucketSort/0347-top-k-frequent-elements/) | Medium | Arrays, Bucket sort, Hashmap | 2026-04-30 (Day 25) |
-| | | | | |
+| # | Problem | Difficulty | Topics |
+|:-:|:--------|:----------:|:------|
+| 0028 | [Find the Index of the First Occurrence](./0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy | String |
+| 0344 | [ Reverse String](./0344-reverse-string/) | Easy | Two pointer, String |
+| 1496 | [ Path Crossing ](./1496-path-crossing/) | Easy | Hash table , String |
+| 0268 | [Missing Number ](./0268-missing-number/) | Easy | Math , Array |
+| 0058 | [ Length of Last Word ](./0058-length-of-last-word/) | Easy | string |
+| 1877 | [ Minimize Maximum Pair Sum in Array ](./1877-minimize-maximum-pair-sum-in-array/) | Medium | Two pointers, Greedy, Sorting, Array |
+| 0202 | [ Happy Number ](./0202-happy-number/) | Easy | Hashing, Math ,Two pointers |
+| 0347 | [Top K Frequent Elements](./Arrays_and_Hashmap/Patterns/BucketSort/0347-top-k-frequent-elements/) | Medium | Arrays, Bucket sort, Hashmap |
+| 0238 | [Product of Array Except Self](./Arrays_and_Hashmap/Patterns/PrefixSum/0238-product-of-array-except-self/) | Medium | Arrays , Prefix Sum |
+| | | | |
 
 
 ## 🛠️ Tech Stack
